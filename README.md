@@ -6,24 +6,24 @@ During the course of this series, we’ll use React to build out a todo app that
 
 ![Preview of Landing Page](./preview.jpeg)
 
-## Lesson Help
-If you get stuck on any lesson in the series, navigate to the course branch for your current lesson and view or download the code for more help.
+# Todo list
+>_Node js, Express js, Typescript, Socket, Redux_
 
-![Preview of downloading code in github](./github.jpeg)
+require `node 16.14.0`
+<br>
+<br>
 
-To get a project up and running:
-1. Unzip the project you downloaded.
-2. Open the unzipped directory in you code editor.
-3. Run `pnpm install` to install all the dependencies.
-4. Run `pnpm run dev` to start the app.
+### 1. Clone repository
+    git clone https://github.com/spd-dev-team/x-server.git
 
-## Assumptions
-In this series, I’ll assume you have a working knowledge of HTML and vanilla JavaScript. It would also help to have a basic understanding of React.
 
-## Connect With Me
-- My YouTube Channel: https://www.youtube.com/c/CodinginPublic
-- Website: https://codinginpublic.dev
-- Blog: https://chrispennington.blog
-- Twitter: https://twitter.com/cpenned
-- Patreon: https://www.patreon.com/coding_in_public
+### 2. Install dependencies
+```
+yarn add ou npm i (à la racicne du dossier todo-list-back)
+yarn add ou npm i (à la racicne du dossier todo-list-front)
+```	
+
+### 3. launch app
+    yarn start ou npm run start (à la racicne du dossier todo-list-back)
+    yarn dev ou npm run dev (à la racicne du dossier todo-list-front)
 
